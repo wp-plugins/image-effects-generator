@@ -54,6 +54,7 @@ This example is of 1000px wide black and white version, for more examples visit 
 
 1. Settings page.
 1. Add Media area once image uploaded.
+1. Displayed on front end
 
 == Changelog ==
 
