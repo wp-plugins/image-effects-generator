@@ -34,18 +34,20 @@ These images are displayed in the **Add Media** area under the **Size** dropdown
 `<?php $image = wp_get_attachment_image_src(get_field('image'), 'image-effects-1000-bw'); ?>
 <img src="<?php echo $image[0]; ?>"/>`
 
+This example is of 1000px wide black and white version, for more examples visit http://dev.twoblok.es/wp-image-effects.
+
 
 == Installation ==
 
 1. Upload the directory `image-effect-generator` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Usage under **Description** tab or visit http://dev.twoblok.es/wp-image-effects-generator
+1. Usage under **Description** tab or visit http://dev.twoblok.es/wp-image-effects
 
 == Frequently Asked Questions ==
 
 **Where can I see a nice page to make me feel better?**
 
-[Visit this page](http://dev.twoblok.es/wp-image-effects-generator).
+[Visit this page](http://dev.twoblok.es/wp-image-effects).
 
 == Screenshots ==
 
