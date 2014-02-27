@@ -34,8 +34,35 @@ These images are displayed in the **Add Media** area under the **Size** dropdown
 `<?php $image = wp_get_attachment_image_src(get_field('image'), 'image-effects-1000-bw'); ?>
 <img src="<?php echo $image[0]; ?>"/>`
 
-This example is of 1000px wide black and white version, for more examples visit http://dev.twoblok.es/wp-image-effects.
+This example is of 1000px wide black and white version.
 
+**All possible image objects:**
+
+* image-effects-1000-bw
+* image-effects-800-bw
+* image-effects-400-bw
+
+* image-effects-1000-blurred
+* image-effects-800-blurred
+* image-effects-400-blurred
+
+* image-effects-1000-sharpened
+* image-effects-800-sharpened
+* image-effects-400-sharpened
+
+* image-effects-1000-sepia
+* image-effects-800-sepia
+* image-effects-400-sepia
+
+* image-effects-1000-pixelate
+* image-effects-800-pixelate
+* image-effects-400-pixelate
+
+* image-effects-1000-negative
+* image-effects-800-negative
+* image-effects-400-negative
+
+ For more examples of the above, visit http://dev.twoblok.es/wp-image-effects.
 
 == Installation ==
 
