@@ -41,6 +41,7 @@ This example is of 1000px wide black and white version, for more examples visit 
 
 1. Upload the directory `image-effect-generator` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Go to Settings > Image Effects Settings and select which effects you would like ~ [Image Reference](http://cl.ly/U8U9)
 1. Usage under **Description** tab or visit http://dev.twoblok.es/wp-image-effects
 
 == Frequently Asked Questions ==
