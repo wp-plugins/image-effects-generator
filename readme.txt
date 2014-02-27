@@ -41,28 +41,23 @@ This example is of 1000px wide black and white version.
 * image-effects-1000-bw
 * image-effects-800-bw
 * image-effects-400-bw
-
 * image-effects-1000-blurred
 * image-effects-800-blurred
 * image-effects-400-blurred
-
 * image-effects-1000-sharpened
 * image-effects-800-sharpened
 * image-effects-400-sharpened
-
 * image-effects-1000-sepia
 * image-effects-800-sepia
 * image-effects-400-sepia
-
 * image-effects-1000-pixelate
 * image-effects-800-pixelate
 * image-effects-400-pixelate
-
 * image-effects-1000-negative
 * image-effects-800-negative
 * image-effects-400-negative
 
- For more examples of the above, visit http://dev.twoblok.es/wp-image-effects.
+For more examples of the above, visit http://dev.twoblok.es/wp-image-effects.
 
 == Installation ==
 
